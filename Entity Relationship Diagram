@@ -1,0 +1,15 @@
+Entity Relationship Diagram
+
+ER-diagrammet visar hur databasen i projektet är strukturerad och hur relationerna mellan studenter och kurser är uppbyggda.
+
+Databasen består av tre tabeller: Students, Courses och Enrollments.
+Students innehåller information om varje student, medan Courses lagrar information om de kurser som finns i systemet.
+
+Relationen mellan studenter och kurser hanteras genom tabellen Enrollments, som fungerar som en kopplingstabell. Detta gör det möjligt för en student att vara registrerad på flera kurser och för en kurs att ha flera studenter.
+
+Strukturen är normaliserad för att undvika duplicerad data och för att göra databasen enkel att underhålla och vidareutveckla.
+
+
+
+<img width="1536" height="1024" alt="(Entity Relationship Diagram)" src="https://github.com/user-attachments/assets/b92f51f4-00d7-4277-b52d-03bb7bf59ee5" />
+
