@@ -1,1 +1,2 @@
-# NewRepo
+
+<img width="1536" height="1024" alt="(Entity Relationship Diagram)" src="https://github.com/user-attachments/assets/b92f51f4-00d7-4277-b52d-03bb7bf59ee5" />
